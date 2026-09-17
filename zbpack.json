@@ -1,0 +1,9 @@
+{
+    "name": "flask-app", 
+    "start": "python app.py",
+    "build": "pip install -r requirements.txt",
+    "env": {
+      "PORT": "5000"
+    }
+  }
+  
